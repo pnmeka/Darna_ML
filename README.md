@@ -13,23 +13,23 @@ d) All files are stored in the Darna_tesseract subdirectory of ocr_files
 **Steps:**
 Step 1
 
-              $cd Health_server
+    cd Health_server
 
 Step 2
 
-              $git clone https://github.com/pnmeka/Darna_ML/
+    git clone https://github.com/pnmeka/Darna_ML/
 
 Step 3
 
-              cd Darna_ML
+    cd Darna_ML
 
 Step 4       Replace user with your username so that the path matches
 
-              $cp analyze.py /home/< user >/Health_server/
+    cp analyze.py /home/< user >/Health_server/
               
 Step 5        Replace user with your username so that the path matches
 
-              $cp analyze.html /home/< user >/Health_server/templates
+    cp analyze.html /home/< user >/Health_server/templates
 
 Step 6
               copy code from darna_flask and paste it in lieu of section @app.route('/analyze) into darna.py
@@ -37,11 +37,11 @@ Step 6
             
 Step 7       Return back to Health_server directory
 
-              $cd ..
+    cd ..
 
 Step 8      Relaunch darna.py
 
-              $python3 darna.py
+    python3 darna.py
 
               
 
