@@ -46,7 +46,8 @@ Step 8      Relaunch darna.py
               
 
 
-
+<img src="https://github.com/pnmeka/pnmeka/blob/main/IMG_5809.jpeg" width =200, height=400>
+<img src="https://github.com/pnmeka/pnmeka/blob/main/IMG_5810.jpeg" width =200, height=400>
 
 References:
 1. https://www.uspreventiveservicestaskforce.org/
