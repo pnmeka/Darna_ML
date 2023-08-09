@@ -44,9 +44,9 @@ Step 8      Relaunch darna.py
     python3 darna.py
 
               
-
-
+<img src="https://github.com/seapoe1809/assets/blob/main/darna_local_assets/IMG_5788.jpeg" width =200, height=400>
 <img src="https://github.com/pnmeka/pnmeka/blob/main/IMG_5809.png" width =200, height=400>
+<img src="https://github.com/seapoe1809/assets/blob/main/darna_local_assets/IMG_5789.jpeg" width =200, height=400>
 <img src="https://github.com/pnmeka/pnmeka/blob/main/IMG_5810.png" width =200, height=400>
 
 References:
