@@ -1,4 +1,4 @@
-# Darna_ML; ### WORK IN PROGRESS ####
+# Darna_ML; ### This module is deprecated. Please see https://github.com/pnmeka/install_module ####
 This module works along with Darna_local at : https://github.com/seapoe1809/Darna_local
 
 
